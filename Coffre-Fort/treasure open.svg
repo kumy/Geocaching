@@ -13,7 +13,7 @@
    height="297mm"
    id="svg3162"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="treasure open.svg">
   <defs
      id="defs3164" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-242.36853"
-     inkscape:cy="773.15028"
+     inkscape:zoom="0.7"
+     inkscape:cx="475.26468"
+     inkscape:cy="582.08285"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="1276"
-     inkscape:window-y="-4"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3167">
@@ -52,701 +52,700 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g3589">
-      <rect
-         y="345.01779"
-         x="84.547241"
-         height="90"
-         width="30"
-         id="rect3398"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400"
-         y="-91.897568"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       id="g3361">
+      <g
+         id="g3589">
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398"
+           width="30"
+           height="90"
+           x="84.547241"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-91.897568"
+           id="text3400"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402"
+             x="351.99994"
+             y="-91.897568"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">A = 17</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-0"
+           width="30"
+           height="90"
+           x="152.67226"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
            x="351.99994"
-           id="tspan3402"
-           sodipodi:role="line">A = 17</tspan></text>
-      <rect
-         y="345.01779"
-         x="152.67226"
-         height="90"
-         width="30"
-         id="rect3398-0"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-2"
-         y="-160.02258"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
            y="-160.02258"
+           id="text3400-2"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-3"
+             x="351.99994"
+             y="-160.02258"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">B = 1</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-6"
+           width="30"
+           height="90"
+           x="220.79726"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
            x="351.99994"
-           id="tspan3402-3"
-           sodipodi:role="line">B = 1</tspan></text>
-      <rect
-         y="345.01779"
-         x="220.79726"
-         height="90"
-         width="30"
-         id="rect3398-6"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-4"
-         y="-228.14758"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
            y="-228.14758"
+           id="text3400-4"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-2"
+             x="351.99994"
+             y="-228.14758"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">C = 2</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-3"
+           width="30"
+           height="90"
+           x="288.92227"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
            x="351.99994"
-           id="tspan3402-2"
-           sodipodi:role="line">C = 2</tspan></text>
-      <rect
-         y="345.01779"
-         x="288.92227"
-         height="90"
-         width="30"
-         id="rect3398-3"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-20"
-         y="-296.27258"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
            y="-296.27258"
+           id="text3400-20"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-8"
+             x="351.99994"
+             y="-296.27258"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">D = 60</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-8"
+           width="30"
+           height="90"
+           x="357.04727"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
            x="351.99994"
-           id="tspan3402-8"
-           sodipodi:role="line">D = 60</tspan></text>
-      <rect
-         y="345.01779"
-         x="357.04727"
-         height="90"
-         width="30"
-         id="rect3398-8"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-0"
-         y="-364.39758"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
            y="-364.39758"
+           id="text3400-0"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-4"
+             x="351.99994"
+             y="-364.39758"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">E = 63</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-9"
+           width="30"
+           height="90"
+           x="425.17227"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
            x="351.99994"
-           id="tspan3402-4"
-           sodipodi:role="line">E = 63</tspan></text>
-      <rect
-         y="345.01779"
-         x="425.17227"
-         height="90"
-         width="30"
-         id="rect3398-9"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-27"
-         y="-432.52258"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
            y="-432.52258"
+           id="text3400-27"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-81"
+             x="351.99994"
+             y="-432.52258"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">F = 80</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-4"
+           width="30"
+           height="90"
+           x="493.29727"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
            x="351.99994"
-           id="tspan3402-81"
-           sodipodi:role="line">F = 80</tspan></text>
-      <rect
-         y="345.01779"
-         x="493.29727"
-         height="90"
-         width="30"
-         id="rect3398-4"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-8"
-         y="-500.64761"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
            y="-500.64761"
+           id="text3400-8"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-6"
+             x="351.99994"
+             y="-500.64761"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">G = 40</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-42"
+           width="30"
+           height="90"
+           x="561.42224"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
            x="351.99994"
-           id="tspan3402-6"
-           sodipodi:role="line">G = 40</tspan></text>
-      <rect
-         y="345.01779"
-         x="561.42224"
-         height="90"
-         width="30"
-         id="rect3398-42"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-6"
-         y="-568.77258"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
            y="-568.77258"
+           id="text3400-6"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-67"
+             x="351.99994"
+             y="-568.77258"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">H = 5</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-2"
+           width="30"
+           height="90"
+           x="629.54724"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
            x="351.99994"
-           id="tspan3402-67"
-           sodipodi:role="line">H = 5</tspan></text>
-      <rect
-         y="345.01779"
-         x="629.54724"
-         height="90"
-         width="30"
-         id="rect3398-2"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-42"
-         y="-636.89758"
-         x="351.99994"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
            y="-636.89758"
-           x="351.99994"
-           id="tspan3402-1"
-           sodipodi:role="line">I = 4</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
-       x="242.64294"
-       y="270.08826"
-       id="text3296"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3298"
-         x="242.64294"
+           id="text3400-42"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-1"
+             x="351.99994"
+             y="-636.89758"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">I = 4</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3296"
          y="270.08826"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">LAT = (E * (G - H * I) + B) * Z</tspan><tspan
-         sodipodi:role="line"
          x="242.64294"
-         y="295.08826"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
-         id="tspan3300">LON = (F * (D - G) * Z) - B</tspan></text>
-    <g
-       id="g3618"
-       transform="translate(8.0811996,0)">
-      <rect
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect3238"
-         width="185"
-         height="130"
-         x="178.87675"
-         y="72.47242" />
-      <rect
-         y="72.47242"
-         x="364.05533"
-         height="130"
-         width="185"
-         id="rect3238-0"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
-         x="233.27373"
-         y="130.5536"
-         id="text3040"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3042"
-           x="233.27373"
-           y="130.5536"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">Code to Unlock:</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:20.77894783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         x="270.62595"
-         y="156.51306"
-         id="text3044"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3046"
-           x="273.50742"
-           y="156.51306"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">D * Z # </tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         x="271.45734"
-         y="175.70061"
-         id="text3048"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan3138"
-           sodipodi:role="line"
-           x="271.45734"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+           y="270.08826"
+           x="242.64294"
+           id="tspan3298"
+           sodipodi:role="line">LAT = (E * (G - H * I) + B) * Z</tspan><tspan
+           id="tspan3300"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+           y="295.08826"
+           x="242.64294"
+           sodipodi:role="line">LON = (F * (D - G) * Z) - B</tspan></text>
+      <g
+         id="g3152">
+        <rect
+           y="72.47242"
+           x="186.95795"
+           height="130"
+           width="185"
+           id="rect3238"
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3238-0"
+           width="185"
+           height="130"
+           x="372.13654"
+           y="72.47242" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3040"
+           y="113.38101"
+           x="235.29779"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="113.38101"
+             x="235.29779"
+             id="tspan3042"
+             sodipodi:role="line">Code to Unlock:</tspan></text>
+        <g
+           id="g3120">
+          <rect
+             y="119.48631"
+             x="214.55565"
+             height="40.406101"
+             width="129.8046"
+             id="rect3118"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             xml:space="preserve"
+             style="font-size:20.77894783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+             x="278.50421"
+             y="147.4003"
+             id="text3044"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3046"
+               x="282.11618"
+               y="147.4003"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">D * Z # </tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3048"
            y="175.70061"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">Please, put the batteries</tspan><tspan
-           sodipodi:role="line"
-           x="271.45734"
-           y="188.20061"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           id="tspan3130">back in the bag</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
-         x="406.64566"
-         y="126.80771"
-         id="text3040-1"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3042-2"
-           x="406.64566"
-           y="126.80771"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">Le code pour ouvrir :</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:20.77894783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         x="423.60629"
-         y="155.70056"
-         id="text3044-4"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3046-4"
-           x="423.60629"
-           y="155.70056"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">D * Z #</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         x="456.44547"
-         y="175.70062"
-         id="text3048-9"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3050"
-           x="456.44547"
+           x="279.23822"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="175.70061"
+             x="279.23822"
+             sodipodi:role="line"
+             id="tspan3138">Please, put the batteries</tspan><tspan
+             id="tspan3130"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="188.20061"
+             x="279.23822"
+             sodipodi:role="line">back in the bag</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3040-1"
+           y="113.38101"
+           x="405.85236"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="113.38101"
+             x="405.85236"
+             id="tspan3042-2"
+             sodipodi:role="line">Le code pour ouvrir :</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3048-9"
            y="175.70062"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">Merci de remettre les</tspan><tspan
-           sodipodi:role="line"
-           x="456.44547"
-           y="188.20062"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           id="tspan3076-4">piles dans le sachet</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
-         x="201.04716"
-         y="90.219299"
-         id="text3112"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3114"
-           x="201.04716"
+           x="464.41681"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="175.70062"
+             x="464.41681"
+             id="tspan3050"
+             sodipodi:role="line">Merci de remettre les</tspan><tspan
+             id="tspan3076-4"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="188.20062"
+             x="464.41681"
+             sodipodi:role="line">piles dans le sachet</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3112"
            y="90.219299"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">The cache is hidden in the safe!</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3116"
-         y="90.219299"
-         x="380.14664"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+           x="200.10736"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+             y="90.219299"
+             x="200.10736"
+             id="tspan3114"
+             sodipodi:role="line">The cache is hidden in the safe!</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
+           x="378.44269"
            y="90.219299"
-           x="380.14664"
-           id="tspan3118"
-           sodipodi:role="line">La cache se trouve dans le coffre !</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
-         x="231.40019"
-         y="111.71933"
-         id="text3120"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3122"
-           x="231.40019"
-           y="111.71933"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">Z = C * A - B</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3124"
-         y="111.71933"
-         x="416.57877"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
-         xml:space="preserve"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           y="111.71933"
-           x="416.57877"
-           id="tspan3126"
-           sodipodi:role="line">Z = C * A - B</tspan></text>
+           id="text3116"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3118"
+             x="378.44269"
+             y="90.219299"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">La cache se trouve dans le coffre !</tspan></text>
+        <g
+           transform="translate(185.17859,0)"
+           id="g3120-7">
+          <rect
+             y="119.48631"
+             x="214.55565"
+             height="40.406101"
+             width="129.8046"
+             id="rect3118-6"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             xml:space="preserve"
+             style="font-size:20.77894783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+             x="278.50421"
+             y="147.4003"
+             id="text3044-5"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3046-7"
+               x="282.11618"
+               y="147.4003"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">D * Z # </tspan></text>
+        </g>
+      </g>
     </g>
     <g
-       transform="translate(-280.51131,343.45124)"
-       id="g3219">
-      <rect
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect3238-1"
-         width="185"
-         height="130"
-         x="467.46927"
-         y="227.63826" />
-      <rect
-         y="227.63826"
-         x="652.64783"
-         height="130"
-         width="185"
-         id="rect3238-0-7"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
-         x="521.86621"
-         y="285.71945"
-         id="text3040-4"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3042-0"
-           x="521.86621"
-           y="285.71945"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">Code to Unlock:</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:20.77894783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         x="559.21844"
-         y="311.67889"
-         id="text3044-9"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3046-48"
-           x="562.09991"
-           y="311.67889"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">D * Z # </tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         x="560.04987"
-         y="330.86646"
-         id="text3048-8"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan3138-2"
-           sodipodi:role="line"
-           x="560.04987"
-           y="330.86646"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">Please, put the batteries</tspan><tspan
-           sodipodi:role="line"
-           x="560.04987"
-           y="343.36646"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           id="tspan3130-4">back in the bag</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
-         x="695.23816"
-         y="281.97354"
-         id="text3040-1-5"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3042-2-5"
-           x="695.23816"
-           y="281.97354"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">Le code pour ouvrir :</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:20.77894783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         x="712.19879"
-         y="310.86639"
-         id="text3044-4-1"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3046-4-7"
-           x="712.19879"
-           y="310.86639"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">D * Z #</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         x="745.03796"
-         y="330.86646"
-         id="text3048-9-1"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3050-1"
-           x="745.03796"
-           y="330.86646"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">Merci de remettre les</tspan><tspan
-           sodipodi:role="line"
-           x="745.03796"
-           y="343.36646"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           id="tspan3076-4-5">piles dans le sachet</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
-         x="489.63968"
-         y="245.38515"
-         id="text3112-2"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3114-7"
-           x="489.63968"
-           y="245.38515"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">The cache is hidden in the safe!</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3116-6"
-         y="245.38515"
-         x="668.73914"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
-           y="245.38515"
-           x="668.73914"
-           id="tspan3118-1"
-           sodipodi:role="line">La cache se trouve dans le coffre !</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
-         x="519.99268"
-         y="266.88516"
-         id="text3120-4"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3122-2"
-           x="519.99268"
-           y="266.88516"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">Z = C * A - B</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3124-3"
-         y="266.88516"
-         x="705.17126"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
-         xml:space="preserve"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           y="266.88516"
-           x="705.17126"
-           id="tspan3126-2"
-           sodipodi:role="line">Z = C * A - B</tspan></text>
-    </g>
-    <g
-       id="g3506"
-       transform="translate(-3.8146973e-6,0)">
-      <rect
-         y="843.63489"
-         x="84.547249"
-         height="90"
-         width="30"
-         id="rect3398-1"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-82"
-         y="-91.897575"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           y="-91.897575"
-           x="850.617"
-           id="tspan3402-0"
-           sodipodi:role="line">A = 17</tspan></text>
-      <rect
-         y="843.63489"
-         x="152.67226"
-         height="90"
-         width="30"
-         id="rect3398-0-0"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-2-6"
-         y="-160.02258"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       id="g3419">
+      <g
+         id="g3589-0"
+         transform="translate(0,490.04565)">
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-1"
+           width="30"
+           height="90"
+           x="84.547241"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
+           y="-91.897568"
+           id="text3400-5"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-49"
+             x="351.99994"
+             y="-91.897568"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">A = 17</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-0-8"
+           width="30"
+           height="90"
+           x="152.67226"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-160.02258"
-           x="850.617"
-           id="tspan3402-3-6"
-           sodipodi:role="line">B = 1</tspan></text>
-      <rect
-         y="843.63489"
-         x="220.79726"
-         height="90"
-         width="30"
-         id="rect3398-6-7"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-4-0"
-         y="-228.14758"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           id="text3400-2-8"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-3-1"
+             x="351.99994"
+             y="-160.02258"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">B = 1</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-6-8"
+           width="30"
+           height="90"
+           x="220.79726"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-228.14758"
-           x="850.617"
-           id="tspan3402-2-9"
-           sodipodi:role="line">C = 2</tspan></text>
-      <rect
-         y="843.63489"
-         x="288.92227"
-         height="90"
-         width="30"
-         id="rect3398-3-7"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-20-8"
-         y="-296.27258"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           id="text3400-4-9"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-2-5"
+             x="351.99994"
+             y="-228.14758"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">C = 2</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-3-2"
+           width="30"
+           height="90"
+           x="288.92227"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-296.27258"
-           x="850.617"
-           id="tspan3402-8-5"
-           sodipodi:role="line">D = 60</tspan></text>
-      <rect
-         y="843.63489"
-         x="357.04727"
-         height="90"
-         width="30"
-         id="rect3398-8-9"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-0-2"
-         y="-364.39758"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           id="text3400-20-9"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-8-3"
+             x="351.99994"
+             y="-296.27258"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">D = 60</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-8-8"
+           width="30"
+           height="90"
+           x="357.04727"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-364.39758"
-           x="850.617"
-           id="tspan3402-4-6"
-           sodipodi:role="line">E = 63</tspan></text>
-      <rect
-         y="843.63489"
-         x="425.17227"
-         height="90"
-         width="30"
-         id="rect3398-9-2"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-27-1"
-         y="-432.52258"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           id="text3400-0-6"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-4-6"
+             x="351.99994"
+             y="-364.39758"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">E = 63</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-9-1"
+           width="30"
+           height="90"
+           x="425.17227"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-432.52258"
-           x="850.617"
-           id="tspan3402-81-7"
-           sodipodi:role="line">F = 80</tspan></text>
-      <rect
-         y="843.63489"
-         x="493.29727"
-         height="90"
-         width="30"
-         id="rect3398-4-3"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-8-0"
-         y="-500.64761"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           id="text3400-27-5"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-81-0"
+             x="351.99994"
+             y="-432.52258"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">F = 80</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-4-1"
+           width="30"
+           height="90"
+           x="493.29727"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-500.64761"
-           x="850.617"
-           id="tspan3402-6-8"
-           sodipodi:role="line">G = 40</tspan></text>
-      <rect
-         y="843.63489"
-         x="561.42224"
-         height="90"
-         width="30"
-         id="rect3398-42-5"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-6-1"
-         y="-568.77258"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           id="text3400-8-4"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-6-8"
+             x="351.99994"
+             y="-500.64761"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">G = 40</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-42-5"
+           width="30"
+           height="90"
+           x="561.42224"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-568.77258"
-           x="850.617"
-           id="tspan3402-67-6"
-           sodipodi:role="line">H = 5</tspan></text>
-      <rect
-         y="843.63489"
-         x="629.54724"
-         height="90"
-         width="30"
-         id="rect3398-2-2"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3400-42-8"
-         y="-636.89758"
-         x="850.617"
-         style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           id="text3400-6-8"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-67-5"
+             x="351.99994"
+             y="-568.77258"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">H = 5</tspan></text>
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3398-2-8"
+           width="30"
+           height="90"
+           x="629.54724"
+           y="345.01779" />
+        <text
+           xml:space="preserve"
+           style="font-size:20.98666191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           x="351.99994"
            y="-636.89758"
-           x="850.617"
-           id="tspan3402-1-7"
-           sodipodi:role="line">I = 4</tspan></text>
+           id="text3400-42-5"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3402-1-2"
+             x="351.99994"
+             y="-636.89758"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">I = 4</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3296-6"
+         y="760.13391"
+         x="226.09021"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+           y="760.13391"
+           x="226.09021"
+           id="tspan3298-4"
+           sodipodi:role="line">LAT = (E * (G - H * I) + B) * Z</tspan><tspan
+           id="tspan3300-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+           y="785.13391"
+           x="226.09021"
+           sodipodi:role="line">LON = (F * (D - G) * Z) - B</tspan></text>
+      <g
+         id="g3152-9"
+         transform="translate(0,490.04565)">
+        <rect
+           y="72.47242"
+           x="186.95795"
+           height="130"
+           width="185"
+           id="rect3238-9"
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3238-0-8"
+           width="185"
+           height="130"
+           x="372.13654"
+           y="72.47242" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3040-0"
+           y="113.38101"
+           x="235.29779"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="113.38101"
+             x="235.29779"
+             id="tspan3042-7"
+             sodipodi:role="line">Code to Unlock:</tspan></text>
+        <g
+           id="g3120-8">
+          <rect
+             y="119.48631"
+             x="214.55565"
+             height="40.406101"
+             width="129.8046"
+             id="rect3118-2"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             xml:space="preserve"
+             style="font-size:20.77894783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+             x="278.50421"
+             y="147.4003"
+             id="text3044-57"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3046-9"
+               x="282.11618"
+               y="147.4003"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">D * Z # </tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3048-0"
+           y="175.70061"
+           x="279.23822"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="175.70061"
+             x="279.23822"
+             sodipodi:role="line"
+             id="tspan3138-6">Please, put the batteries</tspan><tspan
+             id="tspan3130-3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="188.20061"
+             x="279.23822"
+             sodipodi:role="line">back in the bag</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3040-1-8"
+           y="113.38101"
+           x="405.85236"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="113.38101"
+             x="405.85236"
+             id="tspan3042-2-4"
+             sodipodi:role="line">Le code pour ouvrir :</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3048-9-9"
+           y="175.70062"
+           x="464.41681"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="175.70062"
+             x="464.41681"
+             id="tspan3050-9"
+             sodipodi:role="line">Merci de remettre les</tspan><tspan
+             id="tspan3076-4-2"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             y="188.20062"
+             x="464.41681"
+             sodipodi:role="line">piles dans le sachet</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3112-1"
+           y="90.219299"
+           x="200.10736"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+             y="90.219299"
+             x="200.10736"
+             id="tspan3114-2"
+             sodipodi:role="line">The cache is hidden in the safe!</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
+           x="378.44269"
+           y="90.219299"
+           id="text3116-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3118-2"
+             x="378.44269"
+             y="90.219299"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">La cache se trouve dans le coffre !</tspan></text>
+        <g
+           transform="translate(185.17859,0)"
+           id="g3120-7-8">
+          <rect
+             y="119.48631"
+             x="214.55565"
+             height="40.406101"
+             width="129.8046"
+             id="rect3118-6-4"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2480315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             xml:space="preserve"
+             style="font-size:20.77894783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light)'"
+             x="278.50421"
+             y="147.4003"
+             id="text3044-5-7"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3046-7-8"
+               x="282.11618"
+               y="147.4003"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">D * Z # </tspan></text>
+        </g>
+      </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:'Futura (Light) Bold'"
-       x="242.64294"
-       y="768.70532"
-       id="text3296-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3298-6"
-         x="242.64294"
-         y="768.70532"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">LAT = (E * (G - H * I) + B) * Z</tspan><tspan
-         sodipodi:role="line"
-         x="242.64294"
-         y="793.70532"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
-         id="tspan3300-7">LON = (F * (D - G) * Z) - B</tspan></text>
   </g>
 </svg>

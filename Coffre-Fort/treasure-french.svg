@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="treasure-english.svg">
+   sodipodi:docname="treasure-french.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="490.32045"
+     inkscape:cx="346.89618"
      inkscape:cy="351.04587"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,31 +60,47 @@
        x="0"
        y="-0.19123225"
        transform="translate(0,308.2677)" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot2985"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-4.2993774,340.36262)"><flowRegion
-         id="flowRegion2987"><rect
-           id="rect2989"
-           width="939.44189"
-           height="654.57886"
-           x="62.629459"
-           y="47.089226"
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-         id="flowPara2991"
-         style="-inkscape-font-specification:Sans Bold;font-family:Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%">Je possède un trésor, mais je n'ai aucune &quot;valeur réélle&quot; !!!</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3005"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(1.5580444,453.21976)"><flowRegion
-         id="flowRegion3007"><rect
-           id="rect3009"
-           width="963.68555"
-           height="464.67017"
-           x="40.406101"
-           y="239.0182"
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-         id="flowPara3013"
-         style="-inkscape-font-specification:Sans Bold;font-family:Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%">Si vous me trouvez par hasard, merci de me laisser à ma place.</flowPara></flowRoot>  </g>
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Futura (Light)';-inkscape-font-specification:Sans Bold"
+       x="529.61328"
+       y="432.23831"
+       id="text2991"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="529.61328"
+         y="432.23831"
+         id="tspan2997"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold">Je possède un trésor,</tspan><tspan
+         sodipodi:role="line"
+         x="529.61328"
+         y="522.23828"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="tspan3011">mais je n'ai</tspan><tspan
+         sodipodi:role="line"
+         x="529.61328"
+         y="612.23828"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="tspan3013">aucune &quot;valeur réélle&quot; !</tspan><tspan
+         sodipodi:role="line"
+         x="529.61328"
+         y="702.23828"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="tspan3007"></tspan><tspan
+         sodipodi:role="line"
+         x="529.61328"
+         y="792.23828"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="tspan3009">Si vous me trouvez par</tspan><tspan
+         sodipodi:role="line"
+         x="529.61328"
+         y="882.23828"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="tspan3005">hasard, merci de me</tspan><tspan
+         sodipodi:role="line"
+         x="529.61328"
+         y="972.23828"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="tspan3003">laisser à ma place.</tspan></text>
+  </g>
 </svg>
