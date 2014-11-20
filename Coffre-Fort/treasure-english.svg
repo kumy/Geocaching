@@ -13,7 +13,7 @@
    height="744.09448"
    id="svg3054"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="treasure-english.svg">
   <defs
      id="defs3056" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="598.25968"
-     inkscape:cy="357.81024"
+     inkscape:cx="538.25968"
+     inkscape:cy="350.66738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1280"
+     inkscape:window-height="1005"
+     inkscape:window-x="-4"
+     inkscape:window-y="52"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3059">
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,33 +59,37 @@
        height="745.71429"
        x="-3.8189127"
        y="307.45779" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot2985"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-8.11829,339.74395)"><flowRegion
-         id="flowRegion2987"><rect
-           id="rect2989"
-           width="939.44189"
-           height="654.57886"
-           x="62.629459"
-           y="47.089226"
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-         id="flowPara2991"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold">I have a treasure, but I have no</flowPara><flowPara
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         id="flowPara3105">&quot;real value&quot; !!!</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3005"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-2.26087,452.60109)"><flowRegion
-         id="flowRegion3007"><rect
-           id="rect3009"
-           width="963.68555"
-           height="464.67017"
-           x="40.406101"
-           y="239.0182"
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-         id="flowPara3013"
-         style="-inkscape-font-specification:Sans Bold;font-family:Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%">If you find me by chance, thank you for letting me in my place.</flowPara></flowRoot>  </g>
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
+       x="527.25336"
+       y="518.5083"
+       id="text2992"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2994"
+         x="527.25336"
+         y="518.5083"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold;fill:#ff0000">I contain a treasure,</tspan><tspan
+         sodipodi:role="line"
+         x="527.25336"
+         y="608.5083"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold;fill:#ff0000"
+         id="tspan2998">but i have no &quot;real value&quot;!</tspan><tspan
+         sodipodi:role="line"
+         x="527.25336"
+         y="698.5083"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold;fill:#ff0000"
+         id="tspan3774" /><tspan
+         sodipodi:role="line"
+         x="527.25336"
+         y="788.5083"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold;fill:#ff0000"
+         id="tspan3002">If you find me by chance,</tspan><tspan
+         sodipodi:role="line"
+         x="527.25336"
+         y="878.5083"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans Bold;fill:#ff0000"
+         id="tspan3004">please let me in my place.</tspan></text>
+  </g>
 </svg>
