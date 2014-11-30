@@ -112,7 +112,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.86831672"
-     inkscape:cx="555.42335"
+     inkscape:cx="510.7626"
      inkscape:cy="372.354"
      inkscape:current-layer="layer1"
      id="namedview6089"
@@ -130,7 +130,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -404,5 +404,18 @@
          y="344.23584"
          id="tspan6296"
          style="font-size:28px;fill:#ff0000"> MERCI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#40a73c;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+       x="-372.22302"
+       y="803.07288"
+       id="text5756-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5758-9"
+         x="-372.22302"
+         y="803.07288"
+         style="font-size:20px;text-align:center;text-anchor:middle;fill:#40a73c;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">E = 63</tspan></text>
   </g>
 </svg>
