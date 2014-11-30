@@ -11,33 +11,24 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="85mm"
-   height="54mm"
-   id="svg2985"
+   width="297mm"
+   height="210mm"
+   id="svg6085"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Nouveau document 2">
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="105.84502"
-     inkscape:cy="-11.488602"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="mm"
-     inkscape:window-width="1295"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+   sodipodi:docname="Nouveau document 19">
   <defs
-     id="defs3">
+     id="defs6087">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient5651"
+       gradientUnits="userSpaceOnUse"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966"
+       gradientTransform="translate(0,26.870058)" />
     <linearGradient
        id="linearGradient5643"
        osb:paint="solid">
@@ -49,16 +40,90 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5643"
-       id="linearGradient5651"
+       id="linearGradient6032"
        gradientUnits="userSpaceOnUse"
-       x1="-187.75913"
+       x1="-187.75912"
        y1="252.16966"
        x2="-3.5794449"
        y2="252.16966"
        gradientTransform="translate(0,26.870058)" />
+    <linearGradient
+       id="linearGradient6034"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#410000;stop-opacity:1;"
+         offset="0"
+         id="stop6036" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient6038"
+       gradientUnits="userSpaceOnUse"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966"
+       gradientTransform="translate(0,26.870058)" />
+    <linearGradient
+       id="linearGradient6040"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#410000;stop-opacity:1;"
+         offset="0"
+         id="stop6042" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient6205"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,26.870058)"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient6247"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,26.870058)"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient6256"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-276.31484,251.87044)"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966" />
   </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86831672"
+     inkscape:cx="555.42335"
+     inkscape:cy="372.354"
+     inkscape:current-layer="layer1"
+     id="namedview6089"
+     showgrid="false"
+     inkscape:window-width="1295"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata2989">
+     id="metadata6091">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -72,262 +137,272 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline">
+     id="layer1">
     <g
-       id="g5703">
-      <g
-         transform="matrix(0.38267448,0,0,0.38267448,0.00585612,-0.00212947)"
-         id="g3200">
-        <rect
-           style="fill:#40a73c;stroke:none"
-           x="275"
-           y="0"
-           width="225"
-           height="225"
-           id="rect3160" />
-        <rect
-           style="fill:#059192;stroke:none"
-           x="0"
-           y="275"
-           width="225"
-           height="225"
-           id="rect3162" />
-        <circle
-           d="M 430,250 C 430,349.41125 349.41125,430 250,430 150.58875,430 70,349.41125 70,250 70,150.58875 150.58875,70 250,70 c 99.41125,0 180,80.58875 180,180 z"
-           style="fill:none;stroke:#000000;stroke-width:44px"
-           sodipodi:ry="180"
-           sodipodi:rx="180"
-           sodipodi:cy="250"
-           sodipodi:cx="250"
-           cx="250"
-           cy="250"
-           r="180"
-           id="circle3164" />
-        <rect
-           style="fill:#fefe04;stroke:none"
-           x="0"
-           y="0"
-           width="225"
-           height="225"
-           id="rect3166" />
-        <rect
-           style="fill:#fd921e;stroke:none"
-           x="275"
-           y="275"
-           width="225"
-           height="225"
-           id="rect3168" />
-        <polygon
-           style="fill:#40a73c;stroke:none"
-           points="500,70 250,250 430,0 "
-           id="polygon3170" />
-        <polygon
-           style="fill:#059192;stroke:none"
-           points="70,500 250,250 0,430 "
-           id="polygon3172" />
-        <rect
-           style="fill:#ffffff;stroke:none"
-           x="225"
-           y="0"
-           width="50"
-           height="500"
-           id="rect3174" />
-        <rect
-           style="fill:#ffffff;stroke:none"
-           x="0"
-           y="225"
-           width="500"
-           height="50"
-           id="rect3176" />
-        <polygon
-           style="fill:#000000;stroke:none"
-           points="325,314 353,485 367,482 353,396 472,313 332,313 "
-           id="polygon3178" />
-        <path
-           style="fill:#000000;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 90,225 a 47.5,105.5 0 0 1 16,-113 75.5,87.5 22.5 0 1 57,51 90.5,82.5 0 0 1 44,5 144,164 0 0 0 -83,-82 136,150 0 0 0 48,-71 h -9 A 171,169 0 0 1 105,70 142,163 0 0 1 34,15 H 20 A 328,514 0 0 0 79,96 102,146 0 0 0 49,225 z"
-           id="path3180" />
-        <circle
-           d="m 123,35 c 0,10.49341 -8.50659,19 -19,19 -10.49341,0 -19,-8.50659 -19,-19 0,-10.49341 8.50659,-19 19,-19 10.49341,0 19,8.50659 19,19 z"
-           style="fill:#000000;stroke:none"
-           sodipodi:ry="19"
-           sodipodi:rx="19"
-           sodipodi:cy="35"
-           sodipodi:cx="104"
-           cx="104"
-           cy="35"
-           r="19"
-           id="circle3182" />
-        <ellipse
-           d="m 110,45 c 0,2.761424 -2.68629,5 -6,5 -3.31371,0 -6,-2.238576 -6,-5 0,-2.761424 2.68629,-5 6,-5 3.31371,0 6,2.238576 6,5 z"
-           style="fill:#fefe04;stroke:none"
-           sodipodi:ry="5"
-           sodipodi:rx="6"
-           sodipodi:cy="45"
-           sodipodi:cx="104"
-           cx="104"
-           cy="45"
-           rx="6"
-           ry="5"
-           id="ellipse3184" />
-        <polygon
-           style="fill:#fefe04;stroke:none"
-           points="16,55 82,43 82,47 16,60 "
-           id="polygon3186" />
-        <polygon
-           style="fill:#fefe04;stroke:none"
-           points="29,82 87,48 87,53 29,87 "
-           id="polygon3188" />
-        <polygon
-           style="fill:#000000;stroke:none"
-           points="21,70 82,47 16,60 "
-           id="polygon3190" />
-        <polygon
-           style="fill:#000000;stroke:none"
-           points="39,96 87,53 29,87 "
-           id="polygon3192" />
-      </g>
-      <text
-         transform="matrix(0,-1,1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3417"
-         y="272.84213"
-         x="-95.477882"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient5651);stroke-opacity:1;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient5651);stroke-opacity:1;-inkscape-font-specification:Sans Bold"
-           y="272.84213"
-           x="-95.477882"
-           id="tspan3419"
-           sodipodi:role="line">OFFICIAL GEOCACHE</tspan><tspan
-           style="font-size:20px;font-weight:bold;text-align:center;text-anchor:middle;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient5651);stroke-opacity:1;-inkscape-font-specification:Sans Bold"
-           id="tspan3421"
-           y="296.82913"
-           x="-95.477882"
-           sodipodi:role="line">TOOL</tspan></text>
-      <text
-         transform="matrix(0,-1,1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text5653"
-         y="250.33366"
-         x="-94.739601"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#40a73c;fill-opacity:1;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:28px;font-weight:bold;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:Sans Bold"
-           y="250.33366"
-           x="-94.739601"
-           id="tspan5655"
-           sodipodi:role="line">GC5BYX4</tspan></text>
-      <text
-         transform="matrix(0,-1,1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text5657"
-         y="216.64844"
-         x="-95.260597"
-         style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#059192;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="216.64844"
-           x="-95.260597"
-           id="tspan5659"
-           sodipodi:role="line">Aven de la Pélissière</tspan></text>
+       id="g3200"
+       transform="matrix(0,-0.38267448,0.38267448,0,225.00624,467.64995)">
+      <rect
+         id="rect3160"
+         height="225"
+         width="225"
+         y="0"
+         x="275"
+         style="fill:#40a73c;stroke:none" />
+      <rect
+         id="rect3162"
+         height="225"
+         width="225"
+         y="275"
+         x="0"
+         style="fill:#059192;stroke:none" />
+      <circle
+         id="circle3164"
+         r="180"
+         cy="250"
+         cx="250"
+         sodipodi:cx="250"
+         sodipodi:cy="250"
+         sodipodi:rx="180"
+         sodipodi:ry="180"
+         style="fill:none;stroke:#000000;stroke-width:44px"
+         d="M 430,250 C 430,349.41125 349.41125,430 250,430 150.58875,430 70,349.41125 70,250 70,150.58875 150.58875,70 250,70 c 99.41125,0 180,80.58875 180,180 z" />
+      <rect
+         id="rect3166"
+         height="225"
+         width="225"
+         y="0"
+         x="0"
+         style="fill:#fefe04;stroke:none" />
+      <rect
+         id="rect3168"
+         height="225"
+         width="225"
+         y="275"
+         x="275"
+         style="fill:#fd921e;stroke:none" />
+      <polygon
+         id="polygon3170"
+         points="500,70 250,250 430,0 "
+         style="fill:#40a73c;stroke:none" />
+      <polygon
+         id="polygon3172"
+         points="70,500 250,250 0,430 "
+         style="fill:#059192;stroke:none" />
+      <rect
+         id="rect3174"
+         height="500"
+         width="50"
+         y="0"
+         x="225"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3176"
+         height="50"
+         width="500"
+         y="225"
+         x="0"
+         style="fill:#ffffff;stroke:none" />
+      <polygon
+         id="polygon3178"
+         points="325,314 353,485 367,482 353,396 472,313 332,313 "
+         style="fill:#000000;stroke:none" />
+      <path
+         id="path3180"
+         d="m 90,225 a 47.5,105.5 0 0 1 16,-113 75.5,87.5 22.5 0 1 57,51 90.5,82.5 0 0 1 44,5 144,164 0 0 0 -83,-82 136,150 0 0 0 48,-71 h -9 A 171,169 0 0 1 105,70 142,163 0 0 1 34,15 H 20 A 328,514 0 0 0 79,96 102,146 0 0 0 49,225 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:none" />
+      <circle
+         id="circle3182"
+         r="19"
+         cy="35"
+         cx="104"
+         sodipodi:cx="104"
+         sodipodi:cy="35"
+         sodipodi:rx="19"
+         sodipodi:ry="19"
+         style="fill:#000000;stroke:none"
+         d="m 123,35 c 0,10.49341 -8.50659,19 -19,19 -10.49341,0 -19,-8.50659 -19,-19 0,-10.49341 8.50659,-19 19,-19 10.49341,0 19,8.50659 19,19 z" />
+      <ellipse
+         id="ellipse3184"
+         ry="5"
+         rx="6"
+         cy="45"
+         cx="104"
+         sodipodi:cx="104"
+         sodipodi:cy="45"
+         sodipodi:rx="6"
+         sodipodi:ry="5"
+         style="fill:#fefe04;stroke:none"
+         d="m 110,45 c 0,2.761424 -2.68629,5 -6,5 -3.31371,0 -6,-2.238576 -6,-5 0,-2.761424 2.68629,-5 6,-5 3.31371,0 6,2.238576 6,5 z" />
+      <polygon
+         id="polygon3186"
+         points="16,55 82,43 82,47 16,60 "
+         style="fill:#fefe04;stroke:none" />
+      <polygon
+         id="polygon3188"
+         points="29,82 87,48 87,53 29,87 "
+         style="fill:#fefe04;stroke:none" />
+      <polygon
+         id="polygon3190"
+         points="21,70 82,47 16,60 "
+         style="fill:#000000;stroke:none" />
+      <polygon
+         id="polygon3192"
+         points="39,96 87,53 29,87 "
+         style="fill:#000000;stroke:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient6256);stroke-opacity:1;font-family:Sans"
+       x="-371.79272"
+       y="497.8425"
+       id="text3417"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3419"
+         x="-371.79272"
+         y="497.8425"
+         style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient6256);stroke-opacity:1;-inkscape-font-specification:Sans Bold">OFFICIAL GEOCACHE</tspan><tspan
+         sodipodi:role="line"
+         x="-371.79272"
+         y="521.82953"
+         id="tspan3421"
+         style="font-size:20px;font-weight:bold;text-align:center;text-anchor:middle;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient6256);stroke-opacity:1;-inkscape-font-specification:Sans Bold">TOOL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#40a73c;fill-opacity:1;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Sans"
+       x="-371.05444"
+       y="475.33405"
+       id="text5653"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5655"
+         x="-371.05444"
+         y="475.33405"
+         style="font-size:28px;font-weight:bold;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:Sans Bold">GC5BYX4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#059192;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+       x="-371.57544"
+       y="441.6488"
+       id="text5657"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5659"
+         x="-371.57544"
+         y="441.6488">Aven de la Pélissière</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 225.00038,271.31484 0,-35.43307"
+       id="cropTL1-2"
+       style="fill:none;stroke:#000000;stroke-width:0.25" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 220.00038,276.31484 -35.43308,0"
+       id="cropTL2-6"
+       style="fill:none;stroke:#000000;stroke-width:0.25" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 225.00038,472.65342 0,35.43307"
+       id="cropBL1-5"
+       style="fill:none;stroke:#000000;stroke-width:0.25" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 220.00038,467.65342 -35.43308,0"
+       id="cropBL2-1"
+       style="fill:none;stroke:#000000;stroke-width:0.25" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#40a73c;fill-opacity:1;stroke:#000000;stroke-width:0.35433071999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+       x="-372.25818"
+       y="572.84399"
+       id="text5756"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5758"
+         x="-372.25818"
+         y="572.84399"
+         style="font-size:20px;text-align:center;text-anchor:middle;fill:#40a73c;fill-opacity:1;stroke:#000000;stroke-width:0.35433071999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">E = 63</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 832.36181,276.44107 35.43307,0"
+       id="cropTR2-7-7"
+       style="fill:none;stroke:#000000;stroke-width:0.25" />
     <g
-       transform="translate(-3.8457031e-6,-8.6474611e-7)"
-       inkscape:label="CropMarks"
-       id="CropMarks-7">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTL1-2"
-         d="M 0,-5 0,-40.433071"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTL2-6"
-         d="M -5,0 -40.433071,0"
-         inkscape:connector-curvature="0" />
+       id="g6276">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropTR1-4"
-         d="m 301.1811,-5 0,-35.433071"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTR2-7"
-         d="m 306.1811,0 35.43307,0"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBL1-5"
-         d="m 0,196.33858 0,35.43307"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBL2-1"
-         d="m -5,191.33858 -35.433071,0"
+         d="m 526.18148,271.31484 0,-35.43307"
          inkscape:connector-curvature="0" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropBR1-2"
-         d="m 301.1811,196.33858 0,35.43307"
+         d="m 526.18148,472.65342 0,35.43307"
          inkscape:connector-curvature="0" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBR2-4"
-         d="m 306.1811,191.33858 35.43307,0"
+         id="cropTR1-4-4"
+         d="m 827.36181,271.44107 0,-35.43308"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.25"
+         id="cropBR1-2-6"
+         d="m 827.36181,472.77965 0,35.43307"
          inkscape:connector-curvature="0" />
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="Printing Marks"
-     id="printing-marks"
-     sodipodi:insensitive="true"
-     style="display:none">
-    <g
-       inkscape:label="CropMarks"
-       id="CropMarks">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTL1"
-         d="M 0,-5 0,-40.433071"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTL2"
-         d="M -5,0 -40.433071,0"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTR1"
-         d="m 301.1811,-5 0,-35.433071"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTR2"
-         d="m 306.1811,0 35.43307,0"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBL1"
-         d="m 0,196.33858 0,35.43307"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBL2"
-         d="m -5,191.33858 -35.433071,0"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBR1"
-         d="m 301.1811,196.33858 0,35.43307"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBR2"
-         d="m 306.1811,191.33858 35.43307,0"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 832.36181,467.77965 35.43307,0"
+       id="cropBR2-4-1"
+       style="fill:none;stroke:#000000;stroke-width:0.25" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="676.40253"
+       y="397.59195"
+       id="text6282"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6284"
+         x="676.40253"
+         y="397.59195"
+         style="font-size:16px;text-align:center;text-anchor:middle">Ceci fait parti d'un</tspan><tspan
+         sodipodi:role="line"
+         x="678.9494"
+         y="417.59195"
+         id="tspan6286"
+         style="font-size:16px;text-align:center;text-anchor:middle">jeu. Si cette boite doit </tspan><tspan
+         sodipodi:role="line"
+         x="676.40253"
+         y="437.59195"
+         id="tspan6288"
+         style="font-size:16px;text-align:center;text-anchor:middle">être déplacée, merci de nous</tspan><tspan
+         sodipodi:role="line"
+         x="676.40253"
+         y="457.59195"
+         id="tspan6290"
+         style="font-size:16px;text-align:center;text-anchor:middle">contacter à GC5BYX4@kumy.net</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="675.8078"
+       y="309.23584"
+       id="text6292"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6294"
+         x="675.8078"
+         y="309.23584"
+         style="font-size:28px;fill:#ff0000">NE PAS DÉPLACER</tspan><tspan
+         sodipodi:role="line"
+         x="675.8078"
+         y="344.23584"
+         id="tspan6296"
+         style="font-size:28px;fill:#ff0000"> MERCI</tspan></text>
   </g>
 </svg>
