@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="301.18109"
+   height="194.8819"
+   id="svg3207"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Nouveau document 5">
+  <defs
+     id="defs3209">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient6256"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-276.31484,251.87044)"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966" />
+    <linearGradient
+       id="linearGradient5643"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#410000;stop-opacity:1;"
+         offset="0"
+         id="stop5645" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient3166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-276.31484,251.87044)"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966" />
+    <linearGradient
+       id="linearGradient3168"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#410000;stop-opacity:1;"
+         offset="0"
+         id="stop3170" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient3172"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-276.31484,251.87044)"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966" />
+    <linearGradient
+       id="linearGradient3174"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#410000;stop-opacity:1;"
+         offset="0"
+         id="stop3176" />
+    </linearGradient>
+    <linearGradient
+       y2="252.16966"
+       x2="-3.5794449"
+       y1="252.16966"
+       x1="-187.75912"
+       gradientTransform="translate(-276.31484,251.87044)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3203"
+       xlink:href="#linearGradient5643"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient3312"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(504.95224,817.2089)"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient3354"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(314.5951,719.59496)"
+       x1="-187.75912"
+       y1="252.16966"
+       x2="-3.5794449"
+       y2="252.16966" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="364.28491"
+     inkscape:cy="111.32942"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3212">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-857.48029)">
+    <g
+       id="g3200"
+       transform="matrix(0.26553162,0,0,0.26553162,4.6885278,914.63042)">
+      <rect
+         id="rect3160"
+         height="225"
+         width="225"
+         y="0"
+         x="275"
+         style="fill:#40a73c;stroke:none" />
+      <rect
+         id="rect3162"
+         height="225"
+         width="225"
+         y="275"
+         x="0"
+         style="fill:#059192;stroke:none" />
+      <circle
+         id="circle3164"
+         r="180"
+         cy="250"
+         cx="250"
+         sodipodi:cx="250"
+         sodipodi:cy="250"
+         sodipodi:rx="180"
+         sodipodi:ry="180"
+         style="fill:none;stroke:#000000;stroke-width:44px"
+         d="M 430,250 C 430,349.41125 349.41125,430 250,430 150.58875,430 70,349.41125 70,250 70,150.58875 150.58875,70 250,70 c 99.41125,0 180,80.58875 180,180 z" />
+      <rect
+         id="rect3166"
+         height="225"
+         width="225"
+         y="0"
+         x="0"
+         style="fill:#fefe04;stroke:none" />
+      <rect
+         id="rect3168"
+         height="225"
+         width="225"
+         y="275"
+         x="275"
+         style="fill:#fd921e;stroke:none" />
+      <polygon
+         id="polygon3170"
+         points="250,250 430,0 500,70 "
+         style="fill:#40a73c;stroke:none" />
+      <polygon
+         id="polygon3172"
+         points="250,250 0,430 70,500 "
+         style="fill:#059192;stroke:none" />
+      <rect
+         id="rect3174"
+         height="500"
+         width="50"
+         y="0"
+         x="225"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3176"
+         height="50"
+         width="500"
+         y="225"
+         x="0"
+         style="fill:#ffffff;stroke:none" />
+      <polygon
+         id="polygon3178"
+         points="353,485 367,482 353,396 472,313 332,313 325,314 "
+         style="fill:#000000;stroke:none" />
+      <path
+         id="path3180"
+         d="m 90,225 a 47.5,105.5 0 0 1 16,-113 75.5,87.5 22.5 0 1 57,51 90.5,82.5 0 0 1 44,5 144,164 0 0 0 -83,-82 136,150 0 0 0 48,-71 h -9 A 171,169 0 0 1 105,70 142,163 0 0 1 34,15 H 20 A 328,514 0 0 0 79,96 102,146 0 0 0 49,225 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:none" />
+      <circle
+         id="circle3182"
+         r="19"
+         cy="35"
+         cx="104"
+         sodipodi:cx="104"
+         sodipodi:cy="35"
+         sodipodi:rx="19"
+         sodipodi:ry="19"
+         style="fill:#000000;stroke:none"
+         d="m 123,35 c 0,10.49341 -8.50659,19 -19,19 -10.49341,0 -19,-8.50659 -19,-19 0,-10.49341 8.50659,-19 19,-19 10.49341,0 19,8.50659 19,19 z" />
+      <ellipse
+         id="ellipse3184"
+         ry="5"
+         rx="6"
+         cy="45"
+         cx="104"
+         sodipodi:cx="104"
+         sodipodi:cy="45"
+         sodipodi:rx="6"
+         sodipodi:ry="5"
+         style="fill:#fefe04;stroke:none"
+         d="m 110,45 c 0,2.761424 -2.68629,5 -6,5 -3.31371,0 -6,-2.238576 -6,-5 0,-2.761424 2.68629,-5 6,-5 3.31371,0 6,2.238576 6,5 z" />
+      <polygon
+         id="polygon3186"
+         points="82,43 82,47 16,60 16,55 "
+         style="fill:#fefe04;stroke:none" />
+      <polygon
+         id="polygon3188"
+         points="87,48 87,53 29,87 29,82 "
+         style="fill:#fefe04;stroke:none" />
+      <polygon
+         id="polygon3190"
+         points="82,47 16,60 21,70 "
+         style="fill:#000000;stroke:none" />
+      <polygon
+         id="polygon3192"
+         points="87,53 29,87 39,96 "
+         style="fill:#000000;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient3354);stroke-opacity:1;font-family:Sans"
+       x="219.11722"
+       y="965.56702"
+       id="text3417"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="219.11722"
+         y="965.56702"
+         id="tspan3421"
+         style="font-size:56px;font-weight:bold;text-align:center;text-anchor:middle;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient3354);stroke-opacity:1;-inkscape-font-specification:Sans Bold">FTF</tspan><tspan
+         sodipodi:role="line"
+         x="219.11722"
+         y="1003.671"
+         style="font-size:24px;font-weight:bold;text-align:center;text-anchor:middle;fill:#fd921e;fill-opacity:1;stroke:url(#linearGradient3354);stroke-opacity:1;-inkscape-font-specification:Sans Bold"
+         id="tspan3318">REWARD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#40a73c;fill-opacity:1;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Sans"
+       x="220.19339"
+       y="1041.7439"
+       id="text5653"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5655"
+         x="220.19339"
+         y="1041.7439"
+         style="font-size:28px;font-weight:bold;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:Sans Bold">GC5GQXH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#059192;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+       x="149.71603"
+       y="878.41583"
+       id="text5657"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5659"
+         x="149.71603"
+         y="878.41583"
+         style="font-size:22px">Hauteur de Saint-Vallier</tspan><tspan
+         sodipodi:role="line"
+         x="149.71603"
+         y="900.91583"
+         id="tspan3314"
+         style="font-size:22px">&quot;<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3356">Le Trésor</tspan>&quot;</tspan></text>
+  </g>
+</svg>
